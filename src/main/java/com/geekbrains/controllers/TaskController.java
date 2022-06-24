@@ -1,7 +1,7 @@
-package com.geekbrains.controller;
+package com.geekbrains.controllers;
 
-import com.geekbrains.entity.Task;
-import com.geekbrains.service.TaskService;
+import com.geekbrains.entities.Task;
+import com.geekbrains.services.TaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

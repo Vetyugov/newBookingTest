@@ -1,4 +1,4 @@
-package com.geekbrains.entity;
+package com.geekbrains.entities;
 
 import lombok.Data;
 import org.springframework.format.annotation.DateTimeFormat;

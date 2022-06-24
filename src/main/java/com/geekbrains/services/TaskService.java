@@ -1,7 +1,7 @@
-package com.geekbrains.service;
+package com.geekbrains.services;
 
-import com.geekbrains.entity.Task;
-import com.geekbrains.repository.TaskRepository;
+import com.geekbrains.entities.Task;
+import com.geekbrains.repositories.TaskRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;
 import org.springframework.stereotype.Service;

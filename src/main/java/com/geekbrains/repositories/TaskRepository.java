@@ -1,6 +1,6 @@
-package com.geekbrains.repository;
+package com.geekbrains.repositories;
 
-import com.geekbrains.entity.Task;
+import com.geekbrains.entities.Task;
 import org.springframework.data.domain.Sort;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
